@@ -1,2 +1,23 @@
 # Calculator-Project
-A fully functional Calculator with History Tracking, Dark Mode, Keyboard Support built as part of my minor project.
+This is a responsive and user friendly calculator built using HTML, CSS, JavaScript.
+<br>
+it includes features like:
+<br>
+1.basic arithmetic operations
+<br>
+2.Dark Mode toggle for better user experience
+<br>
+3.Keyboard Support for faster calculations
+<br>
+4.Calculation History Tracking
+<br>
+5.Clear and Delete functionalities
+<br>
+KEYBOARD SHORTCUTS as follows:
+<br>
+press ENTER to calculate result
+<br>
+press BACKSPACE to delete last entry
+<br>
+press ESCAPE to clear display
+AUTHOR: Varshika Narayan (varshikanarayan@gmail.com)
