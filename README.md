@@ -5,7 +5,7 @@ it includes features like:
 <br>
 1.basic arithmetic operations
 <br>
-2.Dark Mode toggle for better user experience
+2.Dark Mode toggle for better user experience (https://github.com/VarshikaAI/calculator-project/blob/main/3.png?raw=true)
 <br>
 3.Keyboard Support for faster calculations
 <br>
