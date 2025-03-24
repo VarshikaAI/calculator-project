@@ -23,5 +23,7 @@ press BACKSPACE to delete last entry
 press ESCAPE to clear display
 <br>
 <br>
-![Calculator Screenshot]()
-AUTHOR: Varshika Narayan
+![Calculator Screenshot](https://github.com/VarshikaAI/calculator-project/blob/main/1.png?raw=true)
+<br>
+<br>
+AUTHOR: Varshika Narayan 
