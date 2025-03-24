@@ -23,4 +23,5 @@ press BACKSPACE to delete last entry
 press ESCAPE to clear display
 <br>
 <br>
+![Calculator Screenshot]()
 AUTHOR: Varshika Narayan
