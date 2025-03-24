@@ -5,11 +5,13 @@ it includes features like:
 <br>
 1.basic arithmetic operations
 <br>
-2.Dark Mode toggle for better user experience (https://github.com/VarshikaAI/calculator-project/blob/main/3.png?raw=true)
+2.Dark Mode toggle for better user experience
+![dark mode](https://github.com/VarshikaAI/calculator-project/blob/main/3.png?raw=true)
 <br>
 3.Keyboard Support for faster calculations
 <br>
-4.Calculation History Tracking (https://github.com/VarshikaAI/calculator-project/blob/main/2.png?raw=true)
+4.Calculation History Tracking
+![history tracking](https://github.com/VarshikaAI/calculator-project/blob/main/2.png?raw=true)
 <br>
 5.Clear and Delete functionalities
 <br>
