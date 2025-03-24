@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5 text-center">
+        <h2>Calculator</h2>
+        
+        <!-- Dark Mode Toggle -->
+        <button id="darkModeToggle">Dark Mode</button>
+
+        <div class="calculator mt-3">
+            <input type="text" id="display" class="form-control mb-3 text-end" disabled>
+            <div class="buttons">
+                <button onclick="clearDisplay()" class="btn btn-danger">AC</button>
+                <button onclick="appendValue('%')" class="btn btn-secondary">%</button>
+                <button onclick="appendValue('/')" class="btn btn-secondary">/</button>
+                <button onclick="appendValue('*')" class="btn btn-secondary">*</button>
+                <button onclick="appendValue('7')" class="btn btn-dark">7</button>
+                <button onclick="appendValue('8')" class="btn btn-dark">8</button>
+                <button onclick="appendValue('9')" class="btn btn-dark">9</button>
+                <button onclick="appendValue('-')" class="btn btn-secondary">-</button>
+                <button onclick="appendValue('4')" class="btn btn-dark">4</button>
+                <button onclick="appendValue('5')" class="btn btn-dark">5</button>
+                <button onclick="appendValue('6')" class="btn btn-dark">6</button>
+                <button onclick="appendValue('+')" class="btn btn-secondary">+</button>
+                <button onclick="appendValue('1')" class="btn btn-dark">1</button>
+                <button onclick="appendValue('2')" class="btn btn-dark">2</button>
+                <button onclick="appendValue('3')" class="btn btn-dark">3</button>
+                <button onclick="calculate()" class="btn btn-success">=</button>
+                <button onclick="appendValue('0')" class="btn btn-dark">0</button>
+                <button onclick="appendValue('.')" class="btn btn-dark">.</button>
+                <button onclick="square()" class="btn btn-secondary">x²</button>
+                <button onclick="deleteLast()" class="btn btn-warning">⌫</button>
+            </div>
+        </div>
+
+        <!-- Calculation History -->
+        <h4 class="mt-4">Calculation History</h4>
+        <ul id="historyList" class="list-group"></ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
