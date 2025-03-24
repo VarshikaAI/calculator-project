@@ -9,7 +9,7 @@ it includes features like:
 <br>
 3.Keyboard Support for faster calculations
 <br>
-4.Calculation History Tracking
+4.Calculation History Tracking (https://github.com/VarshikaAI/calculator-project/blob/main/2.png?raw=true)
 <br>
 5.Clear and Delete functionalities
 <br>
