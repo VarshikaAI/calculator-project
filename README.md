@@ -13,6 +13,7 @@ it includes features like:
 <br>
 5.Clear and Delete functionalities
 <br>
+<br>
 KEYBOARD SHORTCUTS as follows:
 <br>
 press ENTER to calculate result
@@ -20,4 +21,6 @@ press ENTER to calculate result
 press BACKSPACE to delete last entry
 <br>
 press ESCAPE to clear display
-AUTHOR: Varshika Narayan (varshikanarayan@gmail.com)
+<br>
+<br>
+AUTHOR: Varshika Narayan
